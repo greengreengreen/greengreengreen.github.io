@@ -1,5 +1,5 @@
 ---
-title: Implementing Apprenticeship Pattern
+title: Executing Apprenticeship Pattern
 
 date: 2023-08-09 
 tags: [reading, career]

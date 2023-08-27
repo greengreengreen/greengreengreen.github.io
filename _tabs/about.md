@@ -4,10 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Still figuring things out.
+Figuring things out.
 
 Current interests:
-- skateboarding
-- yoga
-- chess
+- Skateboarding
+- Yoga
+- Chess
 
